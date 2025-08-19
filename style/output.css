@@ -195,8 +195,14 @@
   .right-\[45\%\] {
     right: 45%;
   }
+  .right-\[48\%\] {
+    right: 48%;
+  }
   .right-\[50\%\] {
     right: 50%;
+  }
+  .right-\[55\%\] {
+    right: 55%;
   }
   .left-0 {
     left: calc(var(--spacing) * 0);
