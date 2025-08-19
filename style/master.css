@@ -11,7 +11,7 @@ body {
     font-family: digital;
   }
   .txtShadowBlue {
-    text-shadow: 20px 0px 50px rgb(4, 105, 255);
+    text-shadow: 20px 10px 50px rgb(4, 105, 255);
   }
   .txtShadowBlue2 {
     text-shadow: 20px 110px 50px rgb(4, 105, 255),
