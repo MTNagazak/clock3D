@@ -52,10 +52,10 @@ This project displays the current time in a **real-time animated 3D design**, pr
 ## 📸 Project Screenshot  
 
 ### 🖥️ Desktop View  
-<img src="images/1.jpg" alt="3D Clock Desktop View" width="100%">
+<img src="images/1.jpg" alt="3D Clock Desktop View" width="70%">
 
 ### 📱 Tablet View  
-<img src="assets/screenshots/mobile.png" alt="3D Clock Mobile View" width="60%">
+<img src="images/2.jpg" alt="3D Clock Mobile View" width="70%">
 
 ### 📱 Mobile View  
-<img src="assets/screenshots/mobile.png" alt="3D Clock Mobile View" width="60%">
+<img src="images/3.jpg" alt="3D Clock Mobile View" width="70%">
