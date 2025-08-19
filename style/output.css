@@ -211,6 +211,12 @@
   .h-52 {
     height: calc(var(--spacing) * 52);
   }
+  .h-100 {
+    height: calc(var(--spacing) * 100);
+  }
+  .h-\[100vh\] {
+    height: 100vh;
+  }
   .h-screen {
     height: 100vh;
   }
