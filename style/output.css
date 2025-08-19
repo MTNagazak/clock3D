@@ -183,6 +183,12 @@
   .top-\[45\%\] {
     top: 45%;
   }
+  .top-\[48\%\] {
+    top: 48%;
+  }
+  .top-\[48\] {
+    top: 48;
+  }
   .right-0 {
     right: calc(var(--spacing) * 0);
   }
@@ -369,6 +375,11 @@
   }
   .perspective-normal {
     perspective: var(--perspective-normal);
+  }
+  .md\:top-\[45\%\] {
+    @media (width >= 48rem) {
+      top: 45%;
+    }
   }
   .md\:right-\[5\%\] {
     @media (width >= 48rem) {
