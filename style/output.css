@@ -380,6 +380,11 @@
       right: 50%;
     }
   }
+  .md\:right-\[51\%\] {
+    @media (width >= 48rem) {
+      right: 51%;
+    }
+  }
   .md\:right-\[52\%\] {
     @media (width >= 48rem) {
       right: 52%;
