@@ -8,6 +8,17 @@ body {
   height: 100vh;
 }
 @layer utilities {
+  .rounded1 {
+    border-radius: 75% 25% 17% 83% / 16% 50% 50% 84%;
+    animation: rot1 20s linear alternate;
+  }
+  .rounded2 {
+    border-radius: 32% 68% 49% 51% / 90% 54% 46% 10%;
+    animation: rot2 10s linear alternate;
+  }
+  .bgRounded {
+    border-radius: 14% 86% 0% 100% / 75% 0% 100% 25%;
+  }
   .fontDigital {
     font-family: digital;
   }
@@ -45,5 +56,21 @@ body {
   }
   100% {
     transform: rotateY(-30deg);
+  }
+}
+@keyframes rot1 {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(180deg);
+  }
+}
+@keyframes rot2 {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(180deg);
   }
 }
